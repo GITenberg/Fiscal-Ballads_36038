@@ -1,0 +1,36 @@
+_repo: Fiscal-Ballads_36038
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graham, Harry
+    aliases:
+    - Streamer, Col. D.
+    - Col. D. Streamer
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '37231'
+    url: http://www.gutenberg.org/2009/agents/37231
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Graham_%28poet%29
+description: ''
+gutenberg_issued: '2011-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1901-1910 -- Poetry'
+- !lcsh 'Tariff -- Great Britain -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Chamberlain, Joseph, 1836-1914 -- Poetry'
+- !lcsh 'Free trade -- Poetry'
+tableOfContents: Foreword -- Protection -- Retaliation -- The Colonies -- Preferential
+  treatment -- British trade -- Controversial entertainment -- 'Statistics' -- 'Controversial
+  methods' -- A message from Broadmoor -- The turning tide -- Envoi.
+title: Fiscal Ballads
+url: http://www.gutenberg.org/ebooks/36038
